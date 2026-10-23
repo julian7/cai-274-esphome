@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "cai-274") (type "KiCad") (uri "${KIPRJMOD}/cai-274.kicad_sym") (options "") (descr ""))
+)
